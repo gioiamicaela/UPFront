@@ -34,7 +34,7 @@ function PasswordForm() {
   };
 
   return (
-    <div className='container vh-80 px-0'>
+    <div className='container vh-80 pt-0 pb-5'>
       <div className='passwordBackground h-50'>
         <img src='./backgroundPassword.jpg' alt='' />
       </div>

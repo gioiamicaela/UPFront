@@ -46,7 +46,7 @@ function Login() {
   };
 
   return (
-    <div className='container vh-80 px-0'>
+    <div className='container vh-80 pt-0 pb-5'>
       <div className='loginBackground h-50'>
         <img src='./background.jpg' alt='' />
       </div>
@@ -115,7 +115,7 @@ function Login() {
               to={'/register'}
               style={{ color: 'rgba(255,255,255,.5)' }}
             >
-              <button type='submit' className='btn btnLogin mt-2'>
+              <button type='submit' className='btn btnLogin mt-2 '>
                 Registrate
               </button>
             </Link>

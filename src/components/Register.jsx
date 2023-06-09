@@ -59,7 +59,7 @@ function Register() {
   };
 
   return (
-    <div className='container vh-80 px-0'>
+    <div className='container vh-80 pt-0 pb-5'>
       <div className='registerBackground h-50'>
         <img src='./background3.jpg' alt='' />
       </div>
